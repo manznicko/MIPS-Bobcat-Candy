@@ -1,0 +1,95 @@
+Case 1: 
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a BobCat Bar: 
+-1
+Price cannot be 0 or negative.
+Please enter the price of a BobCat Bar: 
+0
+Price cannot be 0 or negative.
+Please enter the price of a BobCat Bar: 
+1
+Please enter the number of wrappers needed to exchange for a new bar: 
+2
+How, how much do you have?
+4
+Good! Let me run the numbers ...
+You first buy 4 bars. 
+Then, you will get another 2 bars. 
+Then, you will get another 1 bars. 
+With $4, you will receive a maximum of 7 BobCat Bars!
+-- program is finished running --
+
+Case 2:
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a BobCat Bar: 
+5
+Please enter the number of wrappers needed to exchange for a new bar: 
+-1
+Wrappers traded in cannot be negative.
+Please enter the number of wrappers needed to exchange for a new bar: 
+0
+How, how much do you have?
+30
+Good! Let me run the numbers ...
+You first buy 6 bars. 
+With $30, you will receive a maximum of 6 BobCat Bars!
+-- program is finished running --
+
+Case 3:
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a BobCat Bar: 
+1
+Please enter the number of wrappers needed to exchange for a new bar: 
+1
+How, how much do you have?
+-1
+Money you have cannot be negative. 
+How, how much do you have?
+1
+Good! Let me run the numbers ...
+You first buy 1 bars. 
+With $1, you will receive a maximum of indefinite BobCat Bars!
+-- program is finished running --
+
+Case 4:
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a BobCat Bar: 
+2
+Please enter the number of wrappers needed to exchange for a new bar: 
+5
+How, how much do you have?
+18
+Good! Let me run the numbers ...
+You first buy 9 bars. 
+Then, you will get another 1 bars. 
+Then, you will get another 1 bars. 
+With $18, you will receive a maximum of 11 BobCat Bars!
+-- program is finished running --
+
+Case 5: 
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a BobCat Bar: 
+1
+Please enter the number of wrappers needed to exchange for a new bar: 
+1
+How, how much do you have?
+0
+Good! Let me run the numbers ...
+With $0, you will receive a maximum of 0 BobCat Bars!
+-- program is finished running --
+
+Case 6:
+Welcome to BobCat Candy, home to the famous BobCat Bars!
+Please enter the price of a BobCat Bar: 
+11
+Please enter the number of wrappers needed to exchange for a new bar: 
+6
+How, how much do you have?
+2000
+Good! Let me run the numbers ...
+You first buy 181 bars. 
+Then, you will get another 30 bars. 
+Then, you will get another 5 bars. 
+Then, you will get another 1 bars. 
+With $2000, you will receive a maximum of 217 BobCat Bars!
+-- program is finished running --
